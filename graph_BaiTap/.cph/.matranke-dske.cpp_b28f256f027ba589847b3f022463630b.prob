@@ -1,0 +1,1 @@
+{"name":"Local: matranke-dske","url":"g:\\DSA\\graph_BaiTap\\matranke-dske.cpp","tests":[{"id":1749111559352,"input":"3\n0 1 1\n1 0 1\n1 1 0\n","output":"2 3\n1 3\n1 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\DSA\\graph_BaiTap\\matranke-dske.cpp","group":"local","local":true}

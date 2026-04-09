@@ -1,0 +1,1 @@
+{"name":"Local: MXH","url":"g:\\DSA\\graph_BaiTap\\MXH.cpp","tests":[{"id":1749160812968,"input":"1\n10 4\n4 3\n5 10\n8 9\n1 2\n\n","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\DSA\\graph_BaiTap\\MXH.cpp","group":"local","local":true}

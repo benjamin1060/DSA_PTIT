@@ -1,0 +1,1 @@
+{"name":"Local: dske-dscanh","url":"g:\\DSA\\graph_BaiTap\\dske-dscanh.cpp","tests":[{"id":1749108368371,"input":"3\n2 3\n1 3\n1 2\n\n","output":"1 2\n1 3\n2 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\DSA\\graph_BaiTap\\dske-dscanh.cpp","group":"local","local":true}
